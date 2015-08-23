@@ -23,11 +23,11 @@ pairCost(s1, s2) = -(a1 * totalScoreDifference(s1, s2) + ac1 * category1ScoreDif
 
 
 #### How does it NOT work
-I mean "NOT work" figuratively.
+Figuratively, of course. =)
 
-What I do mean is that there are many arbitrary decisions made without statistical or scientific significance. We do not know that pairing people with difference misunderstandings will lead to concept mastery. We do not have validation data containing "targets" or "labels" so we can measure performance.
+Specifically, there are many arbitrary decisions made without statistical or scientific significance. We do not know that pairing people with difference misunderstandings will lead to concept mastery. We do not have validation data containing "targets" or "labels" so we can measure performance.
 
-Any measure of performance is relative to the arbitrary decisions coded in the algorithm, and thus just as arbitrary.
+Any measure of performance is relative to the arbitrary decisions coded in the algorithm, and thus pairing decision is arbitrary relative to how one encodes the cost.
 
 
 #### Room for improvement
