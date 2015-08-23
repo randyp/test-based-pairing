@@ -1,8 +1,8 @@
 A simulated annealing pairing algorithm I wrote for a friend a couple years ago. I believe he was using it in a project for KUFC. Their goal was to create a web application to create study pairs within a class. I've kep most of the original algorithm code, the rest has been deleted.
 
 #### Algorithm Premises
-1) Pair concept experts with concept beginners, so one can teach the other.
-2) Pair people with different (mis)understandings. If people with different misunderstandings are paired, hopefully they will resolve their different understandings, leading to concept mastery.
+1. Pair concept experts with concept beginners, so one can teach the other.
+2. Pair people with different (mis)understandings. If people with different misunderstandings are paired, hopefully they will resolve their different understandings, leading to concept mastery.
 
 
 #### How does it work
