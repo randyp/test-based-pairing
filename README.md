@@ -6,7 +6,7 @@ A simulated annealing pairing algorithm I wrote for a friend a couple years ago.
 
 
 #### How does it work
-Since pairing is a combinatoric problem, we chose Simulated Annealing [http://en.wikipedia.org/wiki/Simulated_annealing] to reach an approximate solution in reasonable time.
+Since pairing is a combinatoric problem, we chose [Simulated Annealing](http://en.wikipedia.org/wiki/Simulated_annealing) to reach an approximate solution in reasonable time.
 
 The grouping algorithm defines a cost between each possible pair of students, and then minimizes a global cost using simulated annealing. The global cost is the sum of costs for each of the chosen pairs.
 
