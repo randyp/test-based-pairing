@@ -1,4 +1,4 @@
-A simulated annealing pairing algorithm I wrote for a friend a couple years ago. I believe he was using it in a project for KUFC. Their goal was to create a web application to create study pairs within a class. I've kep most of the original algorithm code, the rest has been deleted.
+A simulated annealing pairing algorithm I wrote for a friend a couple years ago for their masters in education technology. Their goal was to create a web application to create study pairs within a class. I've kep most of the original algorithm code, the rest has been deleted.
 
 #### Algorithm Premises
 1. Pair concept experts with concept beginners, so one can teach the other.
